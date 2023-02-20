@@ -1,0 +1,6 @@
+name: CarefulMoss
+version: '${project.version}'
+main: net.mov51.carefulmoss.CarefulMoss
+api-version: 1.19
+authors: [ mov51 ]
+description: Carefully spread your moss by shifting!
